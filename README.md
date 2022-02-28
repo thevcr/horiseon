@@ -1,6 +1,6 @@
 # Horiseon website
 
-Horiseon is a marketing agency that focuses on Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing. Website is written with HTML and CSS.
+Horiseon is a marketing agency that focuses on Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing. The [website](https://thevcr.github.io/horiseon/) is written with HTML and CSS.
 
 ![Horiseon website](Develop/assets/images/horiseon-website-screenie.png)
 
